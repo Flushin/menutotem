@@ -1,0 +1,23 @@
+{
+  "name": "menutotem",
+  "version": "1.0.0",
+  "description": "## Back End - Ter todo o cardápio em JSON, que será a base de dados - Criar endpoint com GET/POST/PUT/DELETE para manipular o JSON do cardápio com express - Ter tratativa dos códigos HTML no endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flushin/menutotem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flushin/menutotem/issues"
+  },
+  "homepage": "https://github.com/Flushin/menutotem#readme",
+  "dependencies": {
+    "express-async-errors": "^3.1.1"
+  }
+}
