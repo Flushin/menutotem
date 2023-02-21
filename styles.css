@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  margin-top: 40px;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+  border: solid 1px black;
+  margin-bottom: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#area-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 20px 0px 20px;
+}
+
+textarea {
+  width: 370px;
+  height: auto;
+}
